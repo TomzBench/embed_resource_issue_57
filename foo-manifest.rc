@@ -1,0 +1,2 @@
+#define RT_MANIFEST 24
+RT_MANIFEST "foo.exe.manifest"
